@@ -1,14 +1,14 @@
-<center><h1>Postman汉化教程</h1></center>
+<center><h1>Postman下载、安装及汉化</h1></center>
 
 <center><h5>作者：汐小旅Shiorys</h5></center>
 
 
 
-### 下载Postman
+### Postman下载与安装
 
 官网地址：[Postman](https://web.postman.com/)；[Postman(需魔法)](https://www.postman.com/)，根据自己的系统下载安装即可
 
-**注**：postman无法自定义安装路径，默认安装在C盘。默认英文版
+**注**：Postman无法自定义安装路径，默认安装在C盘，且为英文版
 
 
 
@@ -32,13 +32,13 @@
 
 
 
-4、打开Postman安装路径，将**app**文件夹拷贝到postman安装目录下【Postman\app-9.12.2\resources】
+4、打开Postman安装路径，将**app**文件夹拷贝到Postman安装目录下【Postman\app-9.12.2\resources】
 
 ![](img/微信截图_20240503010117.png)
 
 
 
-5、重启postman，看到是中文版
+5、重启Postman，看到就是中文版，汉化成功
 
 ![](img/微信截图_20240503010250.png)
 
@@ -52,13 +52,13 @@
 
 ### Postman下载历史版本
 
-1、在安装的 Postman旧版本时，为了避免出现意外的冲突，需要先把系统本地的 Postman 删除了。如果电脑是 Windows，那么可以在控制面板中将现有的 Postman 版本删除。
+1、在安装的 Postman旧版本时，为了避免出现意外的冲突，需要先把系统本地的 Postman 删除了。如果电脑是 Windows，可以在控制面板中将现有的 Postman 版本删除
 
 ![](img/Snipaste_2024-05-03_00-11-43.png)
 
-2、下载所需的历史版本，目前只有 macOS 系统和 Windows 系统的历史版本，选择一个版本，点击【**Download**】下载即可
+2、下载所需的历史版本，目前只有 MacOS 系统和 Windows 系统的历史版本，选择一个版本，点击【**Download**】下载即可
 
-macOS 系统：[MacOS系统](https://mac.filehorse.com/download-postman/old-versions/)
+MacOS 系统：[MacOS系统](https://mac.filehorse.com/download-postman/old-versions/)
 
 ![](img/微信截图_20240503001527.png)
 
